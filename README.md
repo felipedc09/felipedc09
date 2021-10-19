@@ -13,6 +13,29 @@ My goal is to integrate the concepts of design, scalability, reuse, software arc
 - Vegetarian 🌱 
 - sustainability 🌏
 - Fitness 🏃🏻‍♀️
+
+
+## Lenguajes
+
+- Javascript
+- Typescript
+- HTML
+- CSS
+- c#
+- python
+
+## Frameworks, librerías y otros software
+
+- ReactJS
+- NextJS
+- Redux
+- styled-components
+- Node JS
+- .Net
+- SCRUM
+- Unity 3D
+
+
 <!--
 **felipedc09/felipedc09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
