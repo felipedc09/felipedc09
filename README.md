@@ -2,6 +2,9 @@
 I'm Felipe Duitama, I'm forntend developer. I love programming.
 
 ### Find me in
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Evaluation system" width="100"/></a>
+</p>
 ![[https://www.linkedin.com/in/felipedc09/](linkedin)](https://cdn-icons-png.flaticon.com/512/174/174857.png)
 
 ## Goal
