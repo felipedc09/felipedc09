@@ -1,31 +1,31 @@
-### Hi there 👋
-Hi, I'm Felipe Duitama, I'm forntend developer. I love programming.
+# Hi there 👋
+I'm Felipe Duitama, I'm forntend developer. I love programming.
 
-## Goals
+### Find me in
+[https://www.linkedin.com/in/felipedc09/](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+
+## Goal
 My goal is to integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved.
 
 ## Likes
-- Frontend
-- Programming
+- Frontend 🖼
+- Programming🧑🏽‍💻
 - Finances 📊
 - Investments 📈
 - Crypto 🔐
 - Vegetarian 🌱 
-- sustainability 🌏
+- Sustainability 🌏
 - Fitness 🏃🏻‍♀️
 
-
-## Lenguajes
-
+## Lenguages
 - Javascript
 - Typescript
 - HTML
 - CSS
-- c#
-- python
+- C#
+- Python
 
-## Frameworks, librerías y otros software
-
+## Frameworks, libraries and others
 - ReactJS
 - NextJS
 - Redux
@@ -34,7 +34,6 @@ My goal is to integrate the concepts of design, scalability, reuse, software arc
 - .Net
 - SCRUM
 - Unity 3D
-
 
 <!--
 **felipedc09/felipedc09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
