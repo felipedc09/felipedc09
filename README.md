@@ -6,6 +6,10 @@ I'm Felipe Duitama, I'm forntend developer. I love programming.
   <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Evaluation system" width="30"/></a>
 </p>
 
+<p>
+  <a href="https://felipedc09.itch.io"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="Evaluation system" width="30"/></a>
+</p>
+
 ## Goal
 My goal is to integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved.
 
