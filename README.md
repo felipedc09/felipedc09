@@ -3,11 +3,8 @@ I'm Felipe Duitama, I'm forntend developer. I love programming.
 
 ### Find me in
 <p>
-  <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Evaluation system" width="30"/></a>
-</p>
-
-<p>
-  <a href="https://felipedc09.itch.io"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="Evaluation system" width="30"/></a>
+  <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://www.pngfind.com/pngs/m/53-533322_linked-in-logo-linkedin-logo-png-images-free.png" alt="Evaluation system" width="30"/></a>
+  <a href="https://felipedc09.itch.io"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Evaluation system" width="30"/></a>
 </p>
 
 ## Goal
