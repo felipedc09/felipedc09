@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Felipe Duitama, I'm forntend developer. I love programming.
+I'm Felipe Duitama, I'm frontend developer. I love programming.
 
 ### Find me in
 <p>
