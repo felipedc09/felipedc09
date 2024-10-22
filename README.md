@@ -18,7 +18,7 @@ Integrate the concepts of design, scalability, reuse, software architecture, goo
 | 📈 Investments | 🟧 C#            | 💅 Styled-components               |
 | 🔐 Crypto      | 🐍 Python        | 🟩 Node JS                         |
 | 🌱 Vegetarian  | 🐘 SQL           | 🟦 .Net                            |
-| 🌏 Sustainability |                 | 🎮 Unity 3D                        |
+| 🌏 Sustainability | 🐼  MongoDB                 | 🎮 Unity 3D                        |
 | 🏃🏻‍♀️ Fitness  |                 | 🏃 Scrum                           |
 
 
