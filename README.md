@@ -12,12 +12,13 @@ Integrate the concepts of design, scalability, reuse, software architecture, goo
 
 | Likes          | Languages       | Frameworks, Libraries, and Others |
 |----------------|-----------------|-----------------------------------|
-| Frontend 🖼    | Javascript      | ReactJS                           |
-| Programming🧑🏽‍💻 | Typescript      | NextJS                            |
-| Finances 📊    | HTML/CSS        | Redux                             |
-| Investments 📈 | C#              | Styled-components                 |
-| Crypto 🔐      | Python          | Node JS                           |
-| Vegetarian 🌱  | SQL             | .Net                              |
-| Sustainability 🌏 |                 | Unity 3D                          |
-| Fitness 🏃🏻‍♀️  |                 | Scrum                             |
+| 🖼 Frontend    | 🟨 Javascript    | ⚛️ ReactJS                         |
+| 🧑🏽‍💻 Programming | 🟦 Typescript    | ⏭️ NextJS                          |
+| 📊 Finances    | 🌐 HTML/CSS      | 🌀 Redux                           |
+| 📈 Investments | 🟧 C#            | 💅 Styled-components               |
+| 🔐 Crypto      | 🐍 Python        | 🟩 Node JS                         |
+| 🌱 Vegetarian  | 🐘 SQL           | 🟦 .Net                            |
+| 🌏 Sustainability |                 | 🎮 Unity 3D                        |
+| 🏃🏻‍♀️ Fitness  |                 | 🏃 Scrum                           |
+
 
