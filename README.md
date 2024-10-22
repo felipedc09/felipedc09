@@ -10,6 +10,11 @@ I'm Felipe Duitama, I'm frontend developer. I love programming.
 ## Goal
 Integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved.
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
 ## Likes
 - Frontend 🖼
 - Programming🧑🏽‍💻
