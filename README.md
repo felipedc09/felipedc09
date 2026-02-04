@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Felipe Duitama, I'm frontend developer. I love programming.
 
-<a href="https://github.com/felipedc09/CV">Curriculum</a> 
+<a href="https://felipedc09.github.io/CV/">Curriculum</a> 
 
 ### Find me in
 <p>
