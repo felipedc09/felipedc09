@@ -1,10 +1,12 @@
 # Hi there 👋
 I'm Felipe Duitama, I'm frontend developer. I love programming.
 
+<a href="https://github.com/felipedc09/CV">Curriculum</a> 
+
 ### Find me in
 <p>
   <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="30"/></a> 
-  <a href="https://felipedc09.itch.io"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="30"/></a>
+  <a href="https://felipedc09.itch.io"><img src="https://images.icon-icons.com/2407/PNG/512/itch_icon_146025.png" alt="itch.io" width="30"/></a>
 </p>
 
 ## Goal
