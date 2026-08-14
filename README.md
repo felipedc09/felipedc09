@@ -5,7 +5,8 @@
 
 🔧 **Stack:** React · TypeScript · Next.js · Node.js · .NET/C# · AWS (ECS, Lambda, API Gateway) · Docker · Kubernetes · MongoDB · PostgreSQL · WebGL/WebGPU · Unity 3D  
 🏗 **Architecture:** Micro-frontends · Clean Architecture · Atomic Design · Graph algorithms (Dijkstra routing) · Event-driven microservices · CI/CD (GitHub Actions, Terraform)  
-🤖 **AI-assisted dev:** GitHub Copilot · Claude Code · 80% delivery efficiency gains on recent projects (know my agent assistant [Code Agent Assistant ](https://github.com/luisdc0909-pip-bot))
+🤖 **AI-assisted dev:** GitHub Copilot · Claude Code · 80% delivery efficiency gains on recent projects 
+know my agent assistant [Code Agent Assistant](https://github.com/luisdc0909-pip-bot)
 
 ---
 
@@ -22,7 +23,6 @@
 
 ### 📫 Connect
 - 💼 **LinkedIn:** [linkedin.com/in/felipedc09](https://linkedin.com/in/felipedc09)
-- 🐙 **GitHub:** [github.com/felipedc09](https://github.com/felipedc09)
 - ✉️ **Email:** felipedc09@gmail.com
 
 > *Open to Senior/Lead/Architect roles — frontend-heavy, full-stack, or 3D/web graphics — remote or hybrid (COL/US/EU time zones).*
