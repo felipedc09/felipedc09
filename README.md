@@ -1,5 +1,6 @@
 # Luis Felipe Duitama Castillo
 **Senior Software Engineer & Architect** — Building scalable frontends, 3D web experiences, and cloud-native systems.
+
 <a href="https://felipedc09.github.io/CV/">Curriculum</a> 
 
 🔧 **Stack:** React · TypeScript · Next.js · Node.js · .NET/C# · AWS (ECS, Lambda, API Gateway) · Docker · Kubernetes · MongoDB · PostgreSQL · WebGL/WebGPU · Unity 3D  
