@@ -1,26 +1,27 @@
-# Hi there 👋
-I'm Felipe Duitama, I'm frontend developer. I love programming.
-
+# Luis Felipe Duitama Castillo
+**Senior Software Engineer & Architect** — Building scalable frontends, 3D web experiences, and cloud-native systems.
 <a href="https://felipedc09.github.io/CV/">Curriculum</a> 
 
-### Find me in
-<p>
-  <a href="https://www.linkedin.com/in/felipedc09/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="30"/></a> 
-  <a href="https://felipedc09.itch.io"><img src="https://images.icon-icons.com/2407/PNG/512/itch_icon_146025.png" alt="itch.io" width="30"/></a>
-</p>
+🔧 **Stack:** React · TypeScript · Next.js · Node.js · .NET/C# · AWS (ECS, Lambda, API Gateway) · Docker · Kubernetes · MongoDB · PostgreSQL · WebGL/WebGPU · Unity 3D  
+🏗 **Architecture:** Micro-frontends · Clean Architecture · Atomic Design · Graph algorithms (Dijkstra routing) · Event-driven microservices · CI/CD (GitHub Actions, Terraform)  
+🤖 **AI-assisted dev:** GitHub Copilot · Claude Code · 80% delivery efficiency gains on recent projects
 
-## Goal
-Integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved.
+---
 
-| Likes          | Languages       | Frameworks, Libraries, and Others |
-|----------------|-----------------|-----------------------------------|
-| 🖼 Frontend    | 🟨 Javascript    | ⚛️ ReactJS                         |
-| 🧑🏽‍💻 Programming | 🟦 Typescript    | ⏭️ NextJS                          |
-| 📊 Finances    | 🌐 HTML/CSS      | 🌀 Redux                           |
-| 📈 Investments | 🟧 C#            | 💅 Styled-components               |
-| 🔐 Crypto      | 🐍 Python        | 🟩 Node JS                         |
-| 🌱 Vegetarian  | 🐘 SQL           | 🟦 .Net                            |
-| 🌏 Sustainability | 🐼  MongoDB                 | 🎮 Unity 3D                        |
-| 🏃🏻‍♀️ Fitness  |                 | 🏃 Scrum                           |
+### 🚀 Highlight Projects
+| Project | Role | Tech | Impact |
+|---------|------|------|--------|
+| **ARAS/BIMEP — HVAC Automation Platform** | Tech Lead / Full Stack | React, TS, Node.js, AWS ECS Fargate, custom message broker, Revit C# plugins | Migrated monolith → microservices; 90% component reuse; Dijkstra pipe auto-routing; cross-functional team lead |
+| **3D Model Viewer — Browser-Native BIM Pipeline** | Software Architect | Revit→XKT conversion, WebSockets, WebGL, AI-assisted dev | 50% faster model loads; 100 concurrent users; zero-login friction |
+| **vEye — Hospital Digital Twin** | Software Developer | Unity 3D, C#, MongoDB, Express, Node.js | Real-time HVAC sensor visualization across multi-building campus; 500+ assets @ 60 FPS |
+| **HoloLens AR Prototype** | Full Stack | Unity, HoloLens SDK, asset streaming | Memory-optimized 3D streaming for AR headsets |
+| **Virtual Takeoff — Facility Mapping** | Software Engineer | Next.js, PostgreSQL, MongoDB, Mapbox | Geolocated floor-plan annotations (images, audio, video, notes) |
 
+---
 
+### 📫 Connect
+- 💼 **LinkedIn:** [linkedin.com/in/felipedc09](https://linkedin.com/in/felipedc09)
+- 🐙 **GitHub:** [github.com/felipedc09](https://github.com/felipedc09)
+- ✉️ **Email:** felipedc09@gmail.com
+
+> *Open to Senior/Lead/Architect roles — frontend-heavy, full-stack, or 3D/web graphics — remote or hybrid (COL/US/EU time zones).*
