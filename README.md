@@ -5,7 +5,7 @@
 
 🔧 **Stack:** React · TypeScript · Next.js · Node.js · .NET/C# · AWS (ECS, Lambda, API Gateway) · Docker · Kubernetes · MongoDB · PostgreSQL · WebGL/WebGPU · Unity 3D  
 🏗 **Architecture:** Micro-frontends · Clean Architecture · Atomic Design · Graph algorithms (Dijkstra routing) · Event-driven microservices · CI/CD (GitHub Actions, Terraform)  
-🤖 **AI-assisted dev:** GitHub Copilot · Claude Code · 80% delivery efficiency gains on recent projects
+🤖 **AI-assisted dev:** GitHub Copilot · Claude Code · 80% delivery efficiency gains on recent projects (know my agent assistant [Code Agent Assistant ](https://github.com/luisdc0909-pip-bot))
 
 ---
 
